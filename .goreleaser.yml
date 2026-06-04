@@ -13,8 +13,8 @@ builds:
       - CGO_ENABLED=0
     goos:
       - linux
-      - windows
       - darwin
+      #- windows ... not fully compatible yet
     goarch:
       - arm64
       - amd64
