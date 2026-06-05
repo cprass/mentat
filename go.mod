@@ -3,7 +3,7 @@ module mentat
 go 1.26.4
 
 require (
-	github.com/gdamore/tcell/v2 v2.13.8
+	github.com/gdamore/tcell/v2 v2.13.10
 	github.com/goccy/go-yaml v1.19.2
 	github.com/open-spaced-repetition/go-fsrs/v3 v3.3.1
 	github.com/rivo/tview v0.42.0
